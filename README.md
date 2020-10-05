@@ -16,5 +16,39 @@ Copyright © 2020 王正鑫. All Rights Reserved. 王正鑫 版权所有
 
 ## 本repository介绍
   这是一个在线代码测试的网站，我将会不定期的更新。届时将会出现很多`HTML`等语言的程序（资源）[^1]，欢迎大家使用!
+
+  下面是本站的第一个代码，以此纪念！
+  ```html
+<html lang="en">
+  <!--由于篇幅所限，此处省略500行-->
+  <!--大家需要的话可以自行保存-->
+</html>
+  ```
+
+  来源：绝大多数是我写的，有一部分是我从网上收集，整理的，在这里一并向他们表示诚挚的谢意！
   
-  [^1]:有网站源码，特效等等。
+  ## 联系方式
+
+  <table>
+	<tr>
+	    <th>作者</th>
+	    <th>联系方式</th>
+	</tr >
+	<tr >
+	    <td rowspan="3">王正鑫</td>
+	    <td>QQ:3331795694</td>
+	</tr>
+	<tr>
+	    <td>邮箱：wangzx12321@vip.qq.com</td>
+	</tr>
+	<tr>
+	    <td>其他：</td>
+	</tr>
+</table>  
+
+<html>  
+<a href="mailto:wangzx12321@vip.qq.com?subject=&body=" rel="nofollow">发送邮件</a>  
+</html>
+
+
+[^1]:有网站源码，特效等等。
